@@ -4,6 +4,10 @@ ScreenOCR is a lightweight Windows tool that lets you select a portion of your s
 
 No internet, no accounts, no background services. It runs, it copies, it leaves.
 
+
+# Short demo
+https://www.youtube.com/watch?v=8s86Tns3-yo
+
 # Download
 
 The executable is about 1.3 GB because Tesseract is fully bundled to keep the app offline and plug-and-play.
@@ -28,6 +32,8 @@ Math and symbol-heavy content is copied raw and may still be inaccurate.
 Windows only. Other platforms are untested.
 
 Some antivirus software may flag the executable as a false positive due to bundling.
+
+Its not perfect, as shown in the demo, but it works!
 
 # Tools Used
 
