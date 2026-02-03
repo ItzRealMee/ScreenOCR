@@ -3,7 +3,8 @@
 ScreenOCR is a lightweight Windows tool that lets you select a portion of your screen and instantly copy the detected text to your clipboard. It automatically cleans up OCR output, but switches to raw text when it detects heavy symbol usage such as math.
 
 No internet, no accounts, no background services. It runs, it copies, it leaves.
-brought to you by [ygvq(me)](https://ygvq.pages.dev)
+
+Brought to you by [ygvq(me)](https://ygvq.pages.dev)
 
 # Short demo
 https://www.youtube.com/watch?v=8s86Tns3-yo
