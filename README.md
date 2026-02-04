@@ -16,6 +16,9 @@ The executable is kinda big because Tesseract is fully bundled to keep the app o
 Download via Google Drive:
 https://drive.google.com/file/d/12fZ5wsnAfdoppdTYvBCjqweBasHR-SRV/view
 
+Download on itch.io
+https://ygvq.itch.io/screenocr
+
 Yes, it’s big. No, there’s no smaller magic version right now.
 
 # Known Issues
