@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=8s86Tns3-yo
 
 # Download
 
-The executable is about 1.3 GB because Tesseract is fully bundled to keep the app offline and plug-and-play.
+The executable is kinda big because Tesseract is fully bundled to keep the app offline and plug-and-play.
 
 Download via Google Drive:
 https://drive.google.com/file/d/12fZ5wsnAfdoppdTYvBCjqweBasHR-SRV/view
